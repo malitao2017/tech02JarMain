@@ -7,6 +7,10 @@ https://github.com/malitao2017/tech02JarMain
 日志应用：log4j
 jar包应用：tect02JarMain
 
+打jar包：testjar02run
+ 参考：
+http://www.cnblogs.com/mq0036/p/3885407.html
+
 
 
 
