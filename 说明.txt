@@ -1,4 +1,6 @@
 
+这个项目的打包方式不好，参考：  tech31Ant
+
 
 github：
 https://github.com/malitao2017/tech02JarMain
